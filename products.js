@@ -52,7 +52,7 @@ const PRODUCTS = [
     name: "Rechargeable LED Torch",
     price: 1499,
     stock: 15,
-    photo: "torch.jpg",
+    photo: "IMG_20261121_151548.png",
     emoji: "🔦",
     short: "Bright and compact",
     about: "A bright, compact torch you can charge by USB. Handy for load shedding and travel."
