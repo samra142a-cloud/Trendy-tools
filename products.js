@@ -43,7 +43,7 @@ const PRODUCTS = [
     name: "Fabric Shaver",
     price: 1799,
     stock: 12,
-    photo: "shaver.jpg",
+    photo: "IMG_20261121_151408.png",
     emoji: "🧼",
     short: "Removes lint and pilling",
     about: "Removes lint and fuzz balls from sweaters, couches and blankets in minutes."
