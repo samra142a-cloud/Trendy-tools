@@ -34,7 +34,7 @@ const PRODUCTS = [
     name: "Mini Handheld Vacuum",
     price: 3999,
     stock: 5,
-    photo: "vacuum.jpg",
+    photo: "IMG_20261121_151329.png",
     emoji: "🧹",
     short: "Cordless, for car and desk",
     about: "A small cordless vacuum for your car, desk and keyboard. Light and rechargeable."
