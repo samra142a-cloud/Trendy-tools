@@ -16,7 +16,7 @@ const PRODUCTS = [
     name: "Portable Neck Fan",
     price: 2499,
     stock: 10,
-    photo: "fan.jpg",
+    photo: "IMG_20261121_151313.png",
     emoji: "🌀",
     short: "Rechargeable, 3 speeds",
     about: "A bladeless neck fan you wear hands-free. Rechargeable by USB, with 3 speed settings."
