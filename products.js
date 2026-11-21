@@ -70,7 +70,7 @@ const PRODUCTS = [
     name: "Motion Sensor Night Light",
     price: 999,
     stock: 20,
-    photo: "nightlight.jpg",
+    photo: "IMG_20261121_151654.jpg",
     emoji: "💡",
     short: "Auto on and off",
     about: "Turns on when you walk by and off when you leave. Great for hallways and bedrooms."
