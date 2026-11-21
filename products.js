@@ -79,7 +79,7 @@ const PRODUCTS = [
     name: "Mini Portable Blender",
     price: 3499,
     stock: 0,
-    photo: "blender.jpg",
+    photo: "IMG_20261121_151748.png",
     emoji: "🧊",
     short: "USB rechargeable cup",
     about: "Blend smoothies anywhere with this rechargeable blender cup."
