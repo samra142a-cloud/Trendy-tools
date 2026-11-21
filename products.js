@@ -61,7 +61,7 @@ const PRODUCTS = [
     name: "Mini Milk Frother",
     price: 1299,
     stock: 3,
-    photo: "frother.jpg",
+    photo: "IMG_20261121_151729.png",
     emoji: "☕",
     short: "Handheld, battery powered",
     about: "Makes creamy froth for coffee, matcha and milkshakes in seconds."
