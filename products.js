@@ -88,14 +88,14 @@ const PRODUCTS = [
 
 // Reviews: ["what the customer said", "name, city"]. Use REAL ones only.
 const REVIEWS = [
-  ["Sample review: replace with a real customer review.", "Customer name, Karachi"],
+  ["Sample review: awesome product.", "samra, Karachi"],
   ["Sample review: replace with a real customer review.", "Customer name, Karachi"],
   ["Sample review: replace with a real customer review.", "Customer name, Karachi"]
 ];
 
 // FAQs: ["question", "answer"]
 const FAQS = [
-  ["Where do you deliver?", "Currently Karachi only. More cities coming soon."],
+  ["Where do you deliver?", "Currently Karachi only."],
   ["How do I pay?", "Cash on delivery. Check your item, then pay the rider."],
   ["How long does delivery take?", "Usually 1 to 3 working days inside Karachi. We confirm your order on WhatsApp first."],
   ["What if the item is faulty?", "Message us within 48 hours of delivery with a photo or video, and we will replace it."]
