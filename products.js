@@ -25,7 +25,7 @@ const PRODUCTS = [
     name: "Hair & Beard Trimmer",
     price: 2999,
     stock: 8,
-    photo: "trimmer.jpg",
+    photo: "IMG_20261121_151349.png",
     emoji: "✂️",
     short: "Cordless, USB charging",
     about: "A cordless trimmer for hair and beard. Charges by USB and is easy to carry."
